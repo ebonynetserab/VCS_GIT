@@ -1,12 +1,1 @@
-C
-
-
-
-
-
-
-
-
-
-
-# VCS_GIT
+Master commit
